@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alanjimenez69
+- 👋 Hi, I’m alanjimenez
 - 👀 I’m interested in games
 - 🌱 I’m currently learning Unity
 
