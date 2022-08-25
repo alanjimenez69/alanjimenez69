@@ -1,6 +1,6 @@
 - 👋 Hi, I’m alanjimenez
 - 👀 I’m interested in games
-- 🌱 I’m currently learning Unity
+- 🧑‍💻 Llearning Unity
 
 <!---
 alanjimenez69/alanjimenez69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
